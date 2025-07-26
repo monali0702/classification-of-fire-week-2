@@ -1,1 +1,2 @@
-# classification-of-fire-week-2
+# classification_of_fire
+
